@@ -44,8 +44,10 @@
     "@iconify/react": "^4.1.0",
     "@mui/lab": "^5.0.0-alpha.103",
     "@mui/material": "^5.11.10",
+    "@vitejs/plugin-react": "^3.1.0",
     "apexcharts": "^3.37.0",
     "change-case": "^4.1.2",
+    "cypress": "^12.7.0",
     "date-fns": "^2.29.3",
     "history": "^5.3.0",
     "lodash": "^4.17.21",
@@ -59,6 +61,7 @@
     "react-router-dom": "^6.8.1",
     "react-scripts": "^5.0.1",
     "simplebar-react": "^3.2.1",
+    "vite": "^4.1.4",
     "web-vitals": "^3.1.1"
   },
   "devDependencies": {

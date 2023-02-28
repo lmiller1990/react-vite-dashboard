@@ -7,6 +7,7 @@ import ThemeProvider from './theme';
 // components
 import { StyledChart } from './components/chart';
 import ScrollToTop from './components/scroll-to-top';
+import DashboardAppPage from './pages/DashboardAppPage';
 
 // ----------------------------------------------------------------------
 
@@ -17,7 +18,7 @@ export default function App() {
         <ThemeProvider>
           <ScrollToTop />
           <StyledChart />
-          <Router />
+          <DashboardAppPage />
         </ThemeProvider>
       </BrowserRouter>
     </HelmetProvider>
